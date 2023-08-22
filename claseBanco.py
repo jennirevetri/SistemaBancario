@@ -63,7 +63,7 @@ Ingrese una operacion a realizar:
 1-Crear cuenta
 2-Estatus cuenta
 3-Depositar
-4-Retirar
+4-Retirarrrr
 5-Transferir
 6-Salir
 *********************************                       
