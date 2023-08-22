@@ -4,7 +4,7 @@ class cuenta:
 
     total_abiertas = 0
     
-    existen = dict()
+    existentes = dict()
 
     def __init__(self,cliente,saldo):
         cuenta.total_abiertas += 1
